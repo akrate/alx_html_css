@@ -15,3 +15,7 @@ aside{
     flex:1;
     overflow-y: auto;
 }
+header :hover{
+    color: blue;
+    text-shadow: 6px 6px 10px rgb(80, 80, 235);
+}
